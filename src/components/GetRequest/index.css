@@ -1,0 +1,28 @@
+.getreq-bg {
+}
+
+ul {
+  border: 2px solid blue;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: black;
+  padding: 50px;
+}
+li {
+  list-style-type: none;
+  width: 30%;
+  border: 2px solid black;
+  background-color: white;
+  margin: 20px 0 20px 0;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.data-h {
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: 450;
+}
